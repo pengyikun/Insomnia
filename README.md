@@ -231,4 +231,30 @@ After completing the core mission, the player can complete the remaining map exp
 
 After the player has successfully delivered the oil drums to the plane, the player needs to access the mission site at the head of the plane to evacuate, i.e. the success condition of the game is achieved.
 
+## Asset Manifest
+
+| Type                                                         | Name                                                       | Arthor                | Link                                                         |
+| ------------------------------------------------------------ | ---------------------------------------------------------- | --------------------- | ------------------------------------------------------------ |
+| SFX                                                          | Gun & Explosion Sounds                                     | Cafofo                | https://assetstore.unity.com/packages/audio/sound-fx/weapons/gun-explosion-sounds-176739#description |
+| SFX                                                          | Monster Sounds Pack                                        | Cafofo                | https://assetstore.unity.com/packages/audio/sound-fx/creatures/monster-sounds-pack-176744#description |
+| SFX                                                          | Footstep and Foley Sounds                                  | Gamemaster Audio      | https://assetstore.unity.com/packages/audio/sound-fx/foley/footstep-and-foley-sounds-85360#description |
+| VFX                                                          | Polygon Arsenal                                            | Archanor VFX          | https://assetstore.unity.com/packages/vfx/particles/polygon-arsenal-109286#description |
+| Models                                                       | POLYGON Military                                           | Synty Studios         | https://assetstore.unity.com/packages/3d/environments/historic/polygon-military-low-poly-3d-art-by-synty-176304#description |
+| VFX                                                          | POLYGON Particle FX                                        | Synty Studios         | https://assetstore.unity.com/packages/vfx/particles/polygon-particle-fx-low-poly-3d-art-by-synty-168372#description |
+| Models                                                       | POLYGON City Zombies                                       | Synty Studios         | https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/polygon-city-zombies-low-poly-3d-art-by-synty-131930#description |
+| UI                                                           | Mega Crosshair Pack                                        | Red Dot Lab           | https://assetstore.unity.com/packages/2d/gui/icons/mega-crosshair-pack-56164#description |
+| Animations                                                   | Standard Assets                                            | Unity                 | https://github.com/Unity-Technologies/Standard-Assets-Characters |
+| Models                                                       | Toony Tiny People Demo                                     | Polygon Blacksmith    | https://assetstore.unity.com/packages/3d/characters/toony-tiny-people-demo-113188#description |
+| VFX                                                          | Stylized Explosion Package                                 | Kyeoms                | https://assetstore.unity.com/packages/vfx/particles/stylized-explosion-package-190334#description |
+| Animations                                                   | Zombie Motions Pack 1                                      | POLYGONCRAFT          | https://assetstore.unity.com/packages/3d/animations/zombie-motions-pack-1-36224#description |
+| AI Creation tool                                             | Emerald AI 3.0                                             | Black Horizon Studios | https://assetstore.unity.com/packages/tools/ai/emerald-ai-3-0-203904#description |
+| Tools for finding and deleting unused assets                 | Asset Hunter PRO                                           | HeurekaGames          | https://assetstore.unity.com/packages/tools/utilities/asset-hunter-pro-135296#description |
+| Animation&Coding Tutorials for Weapon control and Animation rigging | Shooting a weapon using Projectile Raycasts (with effects) | TheKiwiCoder          | https://www.youtube.com/watch?v=onpteKMsE84                  |
+| Model                                                        | Land Mine PBR                                              | Test Models           | https://sketchfab.com/3d-models/land-mine-pbr-d7dbff9aae97468fa0804ed6b072ed94 |
+| Model                                                        | Landmine                                                   | FeelsBadMan           | https://sketchfab.com/3d-models/landmine-d0d63bfd117c40e4938473caf5333847 |
+| Model                                                        | RF Broadcaster                                             | _konstantsin_         | https://sketchfab.com/3d-models/rf-broadcaster-cc2f4cccb2214cb384cf99c40fb7666e |
+| Model                                                        | Gas Can                                                    | hirairmak             | https://sketchfab.com/3d-models/gas-can-c2f9e030008a4b41a644bf2ce48c5959 |
+| Music                                                        | Siege                                                      | Kyle McCuiston        | https://filmstro.com/music/theme/62821                       |
+
+
 
