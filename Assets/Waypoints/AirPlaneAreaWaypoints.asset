@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71ce88c85dea74e42b93a4adb1e85487, type: 3}
+  m_Name: AirPlaneAreaWaypoints
+  m_EditorClassIdentifier: 
+  Waypoints:
+  - {x: -101.27574, y: 0.0050036907, z: 131.41693}
+  - {x: -80.74172, y: 0.0050036907, z: 122.55093}
+  - {x: -80.74172, y: 0.0050036907, z: 22.405022}
+  - {x: -111.01248, y: 0.0050036907, z: 27.405022}
+  - {x: -111.01248, y: 0.0050036907, z: 73.68924}
+  - {x: -106.22653, y: 0.0050036907, z: 102.43438}

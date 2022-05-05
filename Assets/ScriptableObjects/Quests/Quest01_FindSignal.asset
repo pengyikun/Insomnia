@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a14afcf4a06e7734eb22b122d1413aa0, type: 3}
+  m_Name: Quest01_FindSignal
+  m_EditorClassIdentifier: 
+  id: 0
+  questName: Find Signal Transporter
+  questDescription: "Your first task is to find the location of the signal transmitter,
+    from which you can transmit strategic information to headquarters. \n\nPress
+    T to close/open this (Task) Panel, Press O to change view angel (In case you
+    enter small buildings). Switch weapon to grenade lauched by pressing Q, for now
+    it will instant kill all types of enemy(for demo purpose)"
+  image: {fileID: 21300000, guid: 197c4e9b5af6116468134680c579f1de, type: 3}
+  gold: 100
+  exp: 300

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad10124f71b1f0843a2bd5df652b6499, type: 3}
+  m_Name: GasCan
+  m_EditorClassIdentifier: 
+  id: 5
+  spawnWhenUse: 0
+  ItemName: Fuel Supply
+  weight: 150
+  icon: {fileID: 21300000, guid: a8e98b1c3af4ab84a8a7bf9e0229ba78, type: 3}
+  prefab: {fileID: 349190206793604884, guid: 7d305b4bba6c09c4bb2f96acded8e300, type: 3}
+  statusEffects: []
+  effectObjectType:
+    serializedVersion: 2
+    m_Bits: 128

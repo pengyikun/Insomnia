@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74f3f530764587245b2e82a0b5f59324, type: 3}
+  m_Name: Heal_Add_HP_Large
+  m_EditorClassIdentifier: 
+  id: 7
+  effectName: Bandage&&HP
+  icon: {fileID: 0}
+  description: Stop bleeding and heal overtime
+  dotAmount: -10
+  tickSpeed: 1
+  movementPenalty: 0
+  statimaPenalty: 0
+  lifeTime: 5
+  effectParticles: {fileID: 0}

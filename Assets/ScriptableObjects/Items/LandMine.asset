@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad10124f71b1f0843a2bd5df652b6499, type: 3}
+  m_Name: LandMine
+  m_EditorClassIdentifier: 
+  id: 2
+  spawnWhenUse: 1
+  ItemName: Land Mine
+  weight: 20
+  icon: {fileID: 21300000, guid: 38157160882cfb344b3514c0573632f1, type: 3}
+  prefab: {fileID: 718901334433566187, guid: 798133cca3a66f14482a59434fc29fc9, type: 3}
+  statusEffects:
+  - {fileID: 11400000, guid: 59938d70a7678cb4586ef354e14fb24a, type: 2}
+  effectObjectType:
+    serializedVersion: 2
+    m_Bits: 128
