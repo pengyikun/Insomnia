@@ -4,6 +4,8 @@
 
 This document describes the gameplay, mechanics and provides a walkthrough of the game.
 
+[Demo Video](https://www.youtube.com/watch?v=7aw5J5zYPdI)
+
 ## Win and Failure conditions
 
 **Win condition**: Evacuation of the base by plane (final mission)
